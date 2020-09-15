@@ -1,0 +1,17 @@
+C:\Users\Kabrina\Documents\C#\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+C:\Users\Kabrina\Documents\C#\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+C:\Users\Kabrina\Documents\C#\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Form1.resources
+C:\Users\Kabrina\Documents\C#\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+C:\Users\Kabrina\Documents\C#\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\TutorialPayrollBrady\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\TutorialPayrollBrady\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\TutorialPayrollBrady\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\TutorialPayrollBrady\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Form1.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\TutorialPayrollBrady\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\TutorialPayrollBrady\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\TutorialPayrollBrady\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\TutorialPayrollBrady\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb
